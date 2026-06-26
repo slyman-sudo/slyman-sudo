@@ -1,160 +1,335 @@
-# 👋 Hi, I'm Sylvester Stbrice Jr.
+# Sylvester Stbrice Jr.
 
-## IT Support Specialist | Cloud & Network Engineering Student
+**IT Support Specialist | Cloud & Network Engineering Student | Infrastructure Lab Builder**
 
-Welcome to my GitHub!
+Welcome to my GitHub portfolio.
 
-This GitHub documents my journey from IT Support Specialist to Cloud Infrastructure and DevSecOps Engineer through enterprise homelabs, certifications, real-world troubleshooting, and hands-on infrastructure projects.
-
----
-
-# 🎯 Mission
-
-My mission is to build enterprise-level technical skills through hands-on practice while documenting every project professionally. Every repository represents a milestone in my journey toward becoming a cloud infrastructure and DevSecOps engineer.
----
-
-# 🚀 Professional Roadmap
-
-This GitHub serves as the home of my professional roadmap and technical portfolio.
-
-## Active Roadmap
-
-- GitHub Professional Foundation
-- WGU – B.S. Cloud & Network Engineering
-- LPI Linux Essentials
-- IT Support Specialist Foundation
-
-## Upcoming Phases
-
-- Network Infrastructure (CCNA)
-- Systems Administration (LPIC-1)
-- Azure & AWS Infrastructure
-- Network Monitoring
-- Microsoft 365 Security
-- Containers & Kubernetes
-- DevSecOps
-- AI-Assisted Development
-- Web Applications
+This page is my virtual business card, project directory, and real-time view of my path into IT Support, networking, cloud infrastructure, DevOps, and DevSecOps.
 
 ---
 
-# 🏆 Certifications
+## Quick View
 
-## Earned
-
-- ✅ CompTIA A+
-- ✅ CompTIA Network+
-- ✅ CompTIA Security+
-- ✅ AWS Certified Cloud Practitioner
-- ✅ Microsoft Azure Fundamentals (AZ-900)
-- ✅ Google IT Support Professional Certificate
-
-## Currently Studying
-
-- 🔄 LPI Linux Essentials
-- 🔄 Cisco CCNA
+* IT Support Specialist focus
+* WGU Cloud & Network Engineering student
+* CompTIA A+, Network+, Security+
+* AWS Cloud Practitioner
+* Microsoft Azure Fundamentals
+* Hands-on labs in Windows Server, Linux, networking, cloud, and virtualization
+* Targeting Dallas, Houston, and Los Angeles County IT opportunities
 
 ---
 
-# 🛠 Enterprise Technology Stack
+<details>
+<summary><strong>About</strong></summary>
 
-## Infrastructure
+I am an aspiring IT Support Specialist currently pursuing a B.S. in Cloud & Network Engineering – Microsoft Azure Track at Western Governors University.
 
-- Windows Server
-- Active Directory
-- DNS
-- DHCP
-- Group Policy
-- Microsoft 365
-- Microsoft Intune
-- SCCM
-- Remote Desktop (RDP)
+My background includes customer service, technical administration, operations support, and hands-on IT lab building. I am developing real-world technical skills through structured labs, certification study, documentation, and enterprise-style troubleshooting practice.
 
-## Networking
-
-- TCP/IP
-- VLANs
-- Routing & Switching
-- VPN
-- Cisco Networking
-- Wireshark
-
-## Linux
-
-- Ubuntu
-- Bash
-- Linux Administration
-- File Permissions
-- Shell Scripting
-
-## Cloud
-
-- Microsoft Azure
-- Amazon Web Services (AWS)
-
-## Virtualization
-
-- Proxmox VE
-- Virtual Machines
+</details>
 
 ---
 
-# 🖥 Enterprise Homelab Projects
+<details>
+<summary><strong>Mission</strong></summary>
 
-## Current Projects
+My mission is to build job-ready IT skills through hands-on practice, professional documentation, and real troubleshooting scenarios.
 
-- Proxmox Virtualization Lab
-- Windows Server Infrastructure
-- Active Directory Domain Services
-- IT Support Specialist Lab
-- Enterprise Networking Lab
-- Microsoft 365 Administration
-- Azure & AWS Infrastructure
-- Network Monitoring Platform
-- DevSecOps Pipeline
+Every repository in this GitHub is designed to serve as a chapter of proof.
+
+**Build the skill. Document the process. Show the evidence.**
+
+</details>
 
 ---
 
-# 📖 Current Learning Focus
+<details>
+<summary><strong>Current Career Focus</strong></summary>
 
-I am currently focused on:
+I am currently focused on roles such as:
 
-- Building enterprise Windows Server environments
-- Active Directory administration
-- Microsoft 365 administration
-- Linux system administration
-- Enterprise networking
-- Infrastructure troubleshooting
-- Cloud engineering fundamentals
-- Enterprise documentation
-- GitHub portfolio development
+* IT Support Specialist
+* Help Desk Technician
+* Service Desk Technician
+* Desktop Support Technician
+* Technical Support Specialist
 
----
+Current technical focus areas:
 
-# 🎯 Career Objective
+* Windows Server
+* Active Directory
+* DNS and DHCP
+* Linux Essentials
+* Microsoft 365 support
+* Remote Desktop support
+* File shares and permissions
+* Printer troubleshooting
+* Ticketing and documentation
+* Endpoint support fundamentals
 
-My immediate goal is to secure an **IT Support Specialist** position while completing my Cloud & Network Engineering degree and continuing to build enterprise infrastructure experience through hands-on labs.
-
-## Primary Relocation Markets
-
-- Dallas, Texas
-- Houston, Texas
-- Phoenix. Arizona
-
-## Current Market
-
-- Los Angeles County (Long Beach, California)
+</details>
 
 ---
 
-# 📫 Connect With Me
+<details>
+<summary><strong>Certifications</strong></summary>
 
-### LinkedIn
+### Earned
 
-https://www.linkedin.com/in/sylvester-stbrice-jr-a11384213/
+* CompTIA A+
+* CompTIA Network+
+* CompTIA Security+
+* AWS Certified Cloud Practitioner
+* Microsoft Azure Fundamentals
+* Google IT Support Professional Certificate
+
+### Currently Studying
+
+* LPI Linux Essentials
+* WGU Cloud & Network Engineering coursework
+
+### Future Certification Path
+
+* Cisco CCNA
+* LPIC-1
+* Microsoft 365 / Endpoint Administration
+* Azure Infrastructure
+* AWS Operations
+* DevOps and DevSecOps
+
+</details>
 
 ---
 
-Thank you for visiting my GitHub.
+<details>
+<summary><strong>Technical Skills</strong></summary>
 
-I'm committed to continuous learning and documenting my professional growth as I build toward a career in enterprise IT, cloud infrastructure, and DevSecOps.
+### IT Support & Systems
+
+* Windows troubleshooting
+* Windows Server fundamentals
+* Active Directory concepts
+* User and group management
+* File and printer support
+* Remote Desktop Protocol
+* Technical documentation
+* Ticketing workflows
+
+### Networking
+
+* DNS
+* DHCP
+* IP addressing
+* Network troubleshooting
+* Wireshark fundamentals
+* Routing and switching fundamentals
+
+### Linux
+
+* Linux command line
+* File management
+* Permissions and ownership
+* Users and groups
+* Processes
+* Archiving and compression
+* Basic networking commands
+
+### Cloud & Infrastructure
+
+* Microsoft Azure fundamentals
+* AWS fundamentals
+* Virtual machines
+* Identity and access concepts
+* Cloud monitoring concepts
+* Infrastructure documentation
+
+### Virtualization & Homelab
+
+* Proxmox VE
+* Windows Server virtual machines
+* Ubuntu Linux lab environment
+* Enterprise-style lab documentation
+
+</details>
+
+---
+
+## Project Portfolio
+
+Each repository is organized as a chapter in my IT journey.
+
+---
+
+<details>
+<summary><strong>IT Support Specialist Path</strong></summary>
+
+This path focuses on the real duties and responsibilities of IT Support, Help Desk, Service Desk, and Desktop Support roles.
+
+### Planned / Active Labs
+
+* Windows Server setup
+* Active Directory users, groups, and OUs
+* DNS and DHCP configuration
+* Domain-joined Windows client
+* Remote Desktop support
+* File shares and permissions
+* Printer setup and troubleshooting
+* Microsoft 365 support concepts
+* Ticketing and documentation
+* Real-world troubleshooting scenarios
+
+**Repository:** Coming soon
+
+</details>
+
+---
+
+<details>
+<summary><strong>Linux Essentials Path</strong></summary>
+
+This path documents my Linux Essentials certification preparation and hands-on Linux practice.
+
+Focus areas include:
+
+* Linux command line
+* File and directory management
+* Permissions
+* Users and groups
+* Processes
+* Archiving and compression
+* System security basics
+* Networking commands
+
+**Repository:** [02-LPI-Linux-Essentials](https://github.com/slyman-sudo/02-LPI-Linux-Essentials)
+
+</details>
+
+---
+
+<details>
+<summary><strong>GitHub Foundation</strong></summary>
+
+This repository defines my documentation standards, screenshot standards, troubleshooting format, repository structure, and portfolio organization.
+
+**Repository:** [01-GitHub-Foundation](https://github.com/slyman-sudo/01-GitHub-Foundation)
+
+</details>
+
+---
+
+<details>
+<summary><strong>Proxmox Homelab</strong></summary>
+
+This lab documents my virtualization environment used to build and test Windows Server, Linux, networking, and infrastructure projects.
+
+**Repository:** [proxmox-homelab-minisforum](https://github.com/slyman-sudo/proxmox-homelab-minisforum)
+
+</details>
+
+---
+
+<details>
+<summary><strong>NOC Technician Path</strong></summary>
+
+Future focus:
+
+* Network monitoring
+* Alert triage
+* Logs and dashboards
+* Wireshark packet analysis
+* Uptime checks
+* Incident documentation
+* Escalation workflows
+
+**Repository:** Coming soon
+
+</details>
+
+---
+
+<details>
+<summary><strong>Cloud Support Path</strong></summary>
+
+Future focus:
+
+* Azure virtual machines
+* AWS EC2
+* IAM and identity support
+* Cloud networking
+* Storage services
+* Monitoring and alerts
+* Backup and recovery concepts
+
+**Repository:** Coming soon
+
+</details>
+
+---
+
+<details>
+<summary><strong>DevOps Path</strong></summary>
+
+Future focus:
+
+* GitHub Actions
+* CI/CD pipelines
+* Docker
+* Infrastructure automation
+* Scripting
+* Deployment documentation
+
+**Repository:** Coming soon
+
+</details>
+
+---
+
+<details>
+<summary><strong>DevSecOps Path</strong></summary>
+
+Future focus:
+
+* Secure coding practices
+* Dependency scanning
+* Secrets management
+* Security checks in CI/CD
+* Ticket tracker project
+* AI-assisted development workflows
+
+**Repository:** Coming soon
+
+</details>
+
+---
+
+<details>
+<summary><strong>Desired Locations</strong></summary>
+
+I am currently targeting IT opportunities in:
+
+* Dallas, Texas
+* Houston, Texas
+* Los Angeles County, California
+
+I am open to onsite, hybrid, and remote opportunities.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Career Objective</strong></summary>
+
+My immediate goal is to transition into an IT Support Specialist, Help Desk, Service Desk, or Desktop Support role where I can apply my certifications, hands-on labs, troubleshooting ability, and customer service background.
+
+Long term, my goal is to continue growing into infrastructure, networking, cloud operations, DevOps, and DevSecOps.
+
+</details>
+
+---
+
+## Contact
+
+* **LinkedIn:** https://www.linkedin.com/in/sylvester-stbrice-jr-a11384213/
+* **GitHub:** https://github.com/slyman-sudo
